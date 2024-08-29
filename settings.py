@@ -9,7 +9,7 @@ import os
 # Settings
 ctk.set_appearance_mode('dark')
 ctk.set_default_color_theme('green')
-ctk.set_widget_scaling(1.6) #choose '2.0' for 1920x1080
+ctk.set_widget_scaling(2.0) #choose '2.0' for 1920x1080
 ctk.set_window_scaling(1)
 
 # custom settings
