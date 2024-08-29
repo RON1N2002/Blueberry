@@ -1,0 +1,11 @@
+- Whitemode für Text und Bilder anpassen
+
+- automatische Bildschirmgrößenanpassung
+
+- run-script als .exe ausführen lassen können
+
+- den ganzen shit vereinigen (Fonts, Beschriftungen(auf enlisch oder deutsch) und co.)
+
+- welcome text
+
+- löschen Button bei Notes
