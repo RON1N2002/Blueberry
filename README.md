@@ -4,6 +4,6 @@
 
 Needs "CustomTkinter" libary => import via following comands in CMD (using pip):
 
-pip install customtkinter
+  pip install customtkinter
 
 Link for the libary documentation: https://customtkinter.tomschimansky.com
