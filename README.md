@@ -1,4 +1,4 @@
-#Blueberry
+# Blueberry
 
 ![logo_big](https://github.com/user-attachments/assets/87f34b2f-08d3-4ae5-b0f4-edac826fcc68)
 
