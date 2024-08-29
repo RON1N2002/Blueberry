@@ -1,2 +1,0 @@
-# Blueberry
-I love Blueberrys 😋
