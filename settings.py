@@ -11,8 +11,8 @@ ctk.set_appearance_mode('dark')
 ctk.set_default_color_theme('green')
 
 # custom settings
-font = ('Arial', 18, 'bold')
-black = ('#000000')
+font = 'Arial', 18, 'bold'
+black = '#000000'
 lightgrey = 'grey90'
 entry_widht = 50
 widget_corner_radius = 5 
