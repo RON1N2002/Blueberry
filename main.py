@@ -44,15 +44,14 @@ def appearance():
 # mainwindow settings
 root = ctk.CTk()
 root.title('Blueberry-Software')
+
+# screenscaling
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 
 scaling = (screen_width/800)
 
-#print(screen_width, screen_height)
-#print(scaling)
-
-ctk.set_widget_scaling(scaling) #choose '2.0' for 1920x1080
+ctk.set_widget_scaling(scaling)
 ctk.set_window_scaling(1)
 
 root.geometry('{0}x{1}+0+0'.format(screen_width, screen_height))
